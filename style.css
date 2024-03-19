@@ -201,6 +201,10 @@ section {
   gap: 1rem;
 }
 
+.image {
+  border-radius: 50%;
+}
+
 /*ICONS*/
 
 .icon {
