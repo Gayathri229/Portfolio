@@ -276,6 +276,10 @@ section {
   display: flex;
 }
 
+#about-container {
+  align-content: center;
+}
+
 .about-pic {
   border-radius: 2rem;
 }
