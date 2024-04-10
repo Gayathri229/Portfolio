@@ -127,4 +127,8 @@
   .text-container {
     text-align: justify;
   }
+
+  #role-two {
+    margin-top: 10px;
+  }
 }
